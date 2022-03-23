@@ -1,4 +1,4 @@
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 import fleek from '@fleekhq/fleek-storage-js';
 import db from '../mysql';
 import { getSpace } from '../ens';

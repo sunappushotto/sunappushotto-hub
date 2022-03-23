@@ -1,6 +1,6 @@
 import fetch from 'cross-fetch';
 import { createHash } from 'crypto';
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 
 export function jsonParse(input, fallback?) {
   try {

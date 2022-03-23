@@ -1,5 +1,5 @@
 import isEqual from 'lodash/isEqual';
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 import { getAddress } from '@ethersproject/address';
 import { jsonParse } from '../helpers/utils';
 import { spaces } from '../helpers/spaces';

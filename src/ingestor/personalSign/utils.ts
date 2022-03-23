@@ -1,4 +1,4 @@
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 import * as ethUtil from 'ethereumjs-util';
 import { isValidSignature } from '../../helpers/eip1271';
 

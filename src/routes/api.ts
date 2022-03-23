@@ -1,6 +1,6 @@
 import express from 'express';
-import snapshot from '@snapshot-labs/snapshot.js';
-import gateways from '@snapshot-labs/snapshot.js/src/gateways.json';
+import snapshot from '@sunappushotto/sunappushotto.js';
+import gateways from '@sunappushotto/sunappushotto.js/src/gateways.json';
 import { spaces, spacesMetadata } from '../helpers/spaces';
 import relayer from '../helpers/relayer';
 import { sendError } from '../helpers/utils';

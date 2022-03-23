@@ -1,4 +1,4 @@
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 import { spaces } from './spaces';
 
 export let strategies: any[] = [];

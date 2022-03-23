@@ -1,5 +1,5 @@
 import fetch from 'cross-fetch';
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from '@sunappushotto/sunappushotto.js';
 import getProposal from '../graphql/operations/proposal';
 import getVotes from '../graphql/operations/votes';
 import db from '../helpers/mysql';

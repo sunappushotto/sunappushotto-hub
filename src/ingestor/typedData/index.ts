@@ -1,5 +1,5 @@
-import snapshot from '@snapshot-labs/snapshot.js';
-import hashTypes from '@snapshot-labs/snapshot.js/src/sign/types.json';
+import snapshot from '@sunappushotto/sunappushotto.js';
+import hashTypes from '@sunappushotto/sunappushotto.js/src/sign/types.json';
 import relayer, { issueReceipt } from '../../helpers/relayer';
 import envelope from './envelope.json';
 import { spaces } from '../../helpers/spaces';

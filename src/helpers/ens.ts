@@ -1,6 +1,6 @@
 import fetch from 'cross-fetch';
-import snapshot from '@snapshot-labs/snapshot.js';
-import gateways from '@snapshot-labs/snapshot.js/src/gateways.json';
+import snapshot from '@sunappushotto/sunappushotto.js';
+import gateways from '@sunappushotto/sunappushotto.js/src/gateways.json';
 
 const gateway = gateways[0];
 
