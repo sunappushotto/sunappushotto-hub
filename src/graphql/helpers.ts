@@ -47,7 +47,7 @@ export function formatProposal(proposal) {
   proposal.state = proposalState;
   proposal.space = formatSpace(proposal.space, proposal.settings);
   const networkStr = network === 'testnet' ? 'demo.' : '';
-  proposal.link = `https://${networkStr}snapshot.org/#/${proposal.space.id}/proposal/${proposal.id}`;
+  proposal.link = `https://${networkStr}sunappushotto.com/#/${proposal.space.id}/proposal/${proposal.id}`;
   return proposal;
 }
 
