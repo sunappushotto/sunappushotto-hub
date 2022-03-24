@@ -10,8 +10,8 @@ export async function uriGet(
   protocolType = 'ipfs'
 ) {
   key = key.replace(
-    'storage.snapshot.page',
-    'storageapi.fleek.co/snapshot-team-bucket'
+    'storage.sunappushotto.com',
+    'storageapi.fleek.co/e8157f27-3384-42fe-84ed-e2607667f7bb'
   );
   if (key.includes('storageapi.fleek.co')) protocolType = 'https';
   let url = `https://${gateway}/${protocolType}/${key}`;
